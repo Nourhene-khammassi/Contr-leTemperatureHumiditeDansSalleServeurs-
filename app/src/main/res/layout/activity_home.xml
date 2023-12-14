@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="650dp"
+    android:orientation="vertical"
+    android:background="@drawable/isims"
+    tools:context="com.example.temphumgeolocalisation.home">
+
+    <Button
+        android:id="@+id/temp"
+        android:textSize="22dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="150sp"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:textColor="#FFFFFF"
+        android:background="#1E88E5"
+        android:text="Température" />
+
+    <Button
+        android:id="@+id/hum"
+        android:textSize="22dp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:background="#4CAF50"
+        android:layout_width="300dp"
+        android:textColor="#FFFFFF"
+        android:layout_height="60dp"
+        android:text="Humidité" />
+
+    <Button
+        android:id="@+id/geol"
+        android:textSize="22dp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:background="#FF5722"
+        android:layout_width="300dp"
+        android:textColor="#FFFFFF"
+        android:layout_height="60dp"
+        android:text="Geolocalisation" />
+
+    <Button
+        android:id="@+id/camera"
+        android:textSize="22dp"
+        android:layout_gravity="center"
+        android:background="#FF9800"
+        android:layout_width="300dp"
+        android:textColor="#FFFFFF"
+        android:layout_height="60dp"
+        android:text="Appelel service"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>

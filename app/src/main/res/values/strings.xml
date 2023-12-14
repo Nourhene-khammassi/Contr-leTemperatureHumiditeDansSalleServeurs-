@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TempHumGeolocalisation</string>
+    <string name="humidity_graph">Votre texte pour le graphique humidité </string>
+    <string name="list_temperature">Température</string>
+    <string name="temperature_graph">Graphique de température</string>
+    <string name="name_or_email">Nom ou Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="no_account_yet_click_here_to_create_on">Pas encore de compte? Cliquez ici pour créer un.</string>
+    <string name="id">ID</string>
+    <string name="humidityy">Humidite</string>
+    <string name="humidit">Humidite</string>
+    <string name="date">Date</string>
+    <string name="idt">ID température</string>
+    <string name="temperaturee">Température</string>
+    <string name="new_account">Nouveau Compte</string>
+    <string name="inscrit">Inscrit</string>
+    <string name="google_maps_key" >AIzaSyC358nw9CLmCp_DAcyA1Y4zJ-4XM3lcTVo</string>
+</resources>
